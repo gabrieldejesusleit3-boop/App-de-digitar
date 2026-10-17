@@ -8,8 +8,8 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.exemplo.autodigitador"
-        minSdk = 26
+        applicationId = "com.digitador.app"
+        minSdk = 24
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
